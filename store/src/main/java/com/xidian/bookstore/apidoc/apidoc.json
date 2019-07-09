@@ -1,0 +1,19 @@
+{
+  "name": "BookStore Restful API",
+  "version": "1.0.0",
+  "description": "BookStore Restful API declaration.",
+  "title": "BookStoreRestful API",
+  "sampleUrl_tmp": "https://api-boot-develop.wise-saas.com",
+  "order": [
+    "UserMgmt",
+    "BookMgmt",
+    "OrderMgmt",
+    "PayMgmt",
+    "BackMgmt"
+  ],
+  "template": {
+    "forceLanguage": "en",
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
